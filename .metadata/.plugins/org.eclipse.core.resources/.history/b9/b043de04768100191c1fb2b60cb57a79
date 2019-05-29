@@ -1,0 +1,25 @@
+import java.util.Scanner;
+
+public class Exercicio2 {
+
+	public static void main(String[] args) {
+
+    Scanner entrada = new Scanner(System.in);
+    
+    int valorA = 10;
+    int valorB = 5;
+    
+	}
+	
+	public boolean igualAlgum(int valorA, int valorB) {
+		int valorC = 2;
+		if (valorA != valorC) {
+	return false;
+		}
+		
+		
+		
+	
+	}
+
+}
